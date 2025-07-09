@@ -26,7 +26,7 @@ async def main():
         session,
         ["12", "19"],
         TIME_WEEKDAY_0TIME,
-        ["username", "shimym9"],
+        ["username", "username"],
         ["Y", "N"]
     )
 
@@ -41,7 +41,7 @@ async def main():
         session,
         ["12", "19"],
         TIME_WEEKDAY_1TIME,
-        ["username", "shimym9"],
+        ["username", "username"],
         ["Y", "N"]
     )
 
@@ -56,7 +56,7 @@ async def main():
         session,
         ["12", "19"],
         TIME_WEEKDAY_2TIME,
-        ["username", "shimym9"],
+        ["username", "username"],
         ["Y", "N"]
     )
 

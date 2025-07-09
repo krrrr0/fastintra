@@ -27,9 +27,7 @@ async def main():
             session,
             ["12", "13", "14", "15", "16", "18"], # 주의! 17 사용 안함
             TIME_WEEKDAY_0TIME,
-            # 박정연A, 정찬훈, 조인수, 김세훈, 오서준, 양희준(0T만)
-            # 박정연A, 오서준, 조인수, 이신재, 심영민, 허재준, 김기현, ???
-            ["username", "Burning",  "joinsoo", "mantaray", "osjoon005", "didg4123"],
+            ["username", "username1", "username2", "username3", "username4", "username5"],
             ["Y", "N", "N", "N", "N", "N"]
         )
 
@@ -44,9 +42,7 @@ async def main():
             session,
             ["12", "13", "14", "15", "16", "18"], # 주의! 17 사용 안함
             TIME_WEEKDAY_1TIME,
-            # 박정연A, 정찬훈, 조인수, 김세훈, 오서준, 양희준(0T만)
-            # 박정연A, 오서준, 조인수, 이신재, 심영민, 허재준, 김기현, ???
-            ["username", "Burning",  "joinsoo", "mantaray", "osjoon005"],
+            ["username", "username1",  "username2", "username3", "username4"],
             ["N", "Y", "N", "N", "N",]
         )
 
@@ -61,9 +57,7 @@ async def main():
             session,
             ["12", "13", "14", "15", "16", "18"], # 주의! 17 사용 안함
             TIME_WEEKDAY_2TIME,
-            # 박정연A, 정찬훈, 조인수, 김세훈, 오서준, 양희준(0T만)
-            # 박정연A, 오서준, 조인수, 이신재, 심영민, 허재준, 김기현, ???
-            ["username", "Burning",  "joinsoo", "mantaray", "osjoon005"],
+            ["username", "username1",  "username2", "username3", "username4"],
             ["N", "N", "Y", "N", "N",]
         )
 

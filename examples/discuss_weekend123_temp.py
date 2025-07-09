@@ -27,8 +27,7 @@ async def main():
             session,
             ["12", "14", "15", "16", "18", "19", "20"], # 주의! 17 사용 안함
             TIME_WEEKEND_1TIME,
-            # 박정연 조인수 김세훈 양희준 최보석 김기현 심영민
-            ["username", "joinsoo", "mantaray", "didg4123", "05bosuk", "thskrl32", "shimym9"],
+            ["username", "username1", "username2", "username3", "username4", "username5", "username6"],
             ["Y", "N", "N", "N", "N", "N", "N"]
         )
 
@@ -43,8 +42,7 @@ async def main():
             session,
             ["12", "14", "15", "16", "18", "19", "20"], # 주의! 17 사용 안함
             TIME_WEEKEND_2TIME,
-            # 박정연 조인수 김세훈 양희준 최보석 김기현 심영민
-            ["joinsoo", "didg4123", "05bosuk",  "username", "shimym9", "mantaray", "thskrl32", ],
+            ["username", "username1", "username2", "username3", "username4", "username5", "username6", ],
             ["Y", "N", "N", "N", "N", "N", "N"]
         )
 
@@ -59,8 +57,7 @@ async def main():
             session,
             ["12", "14", "15", "16", "18", "19",], # 주의! 17 사용 안함
             TIME_WEEKEND_3TIME,
-            # 박정연 조인수 김세훈 양희준 최보석 심영민
-            ["mantaray", "shimym9", "joinsoo", "didg4123", "05bosuk", "username",],
+            ["username", "username1", "usernam2", "username3", "username4", "username5",],
             ["Y", "N", "N", "N", "N", "N"]
         )
 

@@ -3,7 +3,8 @@
   <img src="https://github.com/user-attachments/assets/4bab9023-981c-4234-975a-c12da4f128dd" width="50%" />  
   <br/><br/>
   <code>fastintra</code>는 <a href="https://hana.hs.kr">하나고등학교</a>의 인트라넷을 제어하기 위한 도구입니다.<br/>
-  인트라넷이 허접하기 때문에 각종 기예가 가능합니다.  
+  인트라넷이 허접하기 때문에 각종 기예가 가능합니다.<br />
+  <a href="https://serve.moe/blog/releasing-fastintra-and-school-talks">[블로그 아티클]</a>  
 </p>
 
 ## 시작하기

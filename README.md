@@ -4,7 +4,6 @@
   <br/><br/>
   <code>fastintra</code>는 <a href="https://hana.hs.kr">하나고등학교</a>의 인트라넷을 제어하기 위한 도구입니다.<br/>
   인트라넷이 허접하기 때문에 각종 기예가 가능합니다.<br />
-  <a href="https://serve.moe/blog/releasing-fastintra-and-school-talks">[블로그 아티클]</a>  
 </p>
 
 ## 시작하기
@@ -28,5 +27,5 @@ $ pip install -r req.txt
 
 ## 라이선스
 (c) 2025 krrrr0 & Contributors  
-이 코드는 WTFPL(DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE)로 배포됩니다.  
+이 코드는 WTFPL로 배포됩니다.  
 코드는 '있는 그대로' 배포되며, 이 코드를 사용함으로서 얻는 모든 문제의 책임은 전적으로 사용자에게 있습니다.  
